@@ -1,0 +1,5 @@
+#!/bin/bash
+
+git clone https://github.com/Mjrovai/MJRoBot-Web-RPi-Robot
+cd MJRoBot*
+ls
